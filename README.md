@@ -1,5 +1,7 @@
-# Welcome FoodSupply Connect (or your chosen project name)
+# Welcome FoodSupply Connect 
+
 Project Overview
+
 FoodSupply Connect is a web platform designed to solve the real-world problem faced by street food vendors in India — sourcing affordable and trusted raw materials. Our platform connects vendors with verified suppliers, offering features like price comparison, group buying, and real-time order tracking.The goal is to streamline the procurement process and empower street food vendors to run their businesses more efficiently.
 
 Problem Statement
@@ -25,7 +27,7 @@ Authentication: Firebase Authentication
 
 Styling: TailwindCSS
 
-Hosting: [Your hosting platform, e.g., Netlify, Vercel]
+Hosting: https://food-supply-connect-3t9y1ymms-suchitras-projects-874b7804.vercel.app
 
 Installation & Setup
 Follow these steps to get the project up and running locally:
@@ -42,7 +44,7 @@ bash
 Copy
 Edit
 git clone [repo-link]
-cd [project-folder]
+cd [C:\Users\admin\Downloads\food supply connect]
 Install dependencies:
 
 bash
