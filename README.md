@@ -1,6 +1,6 @@
 # Welcome FoodSupply Connect (or your chosen project name)
 Project Overview
-FoodSupply Connect is a web platform designed to solve the real-world problem faced by street food vendors in India — sourcing affordable and trusted raw materials. Our platform connects vendors with verified suppliers, offering features like price comparison, group buying, and real-time order tracking. The goal is to streamline the procurement process and empower street food vendors to run their businesses more efficiently.
+FoodSupply Connect is a web platform designed to solve the real-world problem faced by street food vendors in India — sourcing affordable and trusted raw materials. Our platform connects vendors with verified suppliers, offering features like price comparison, group buying, and real-time order tracking.The goal is to streamline the procurement process and empower street food vendors to run their businesses more efficiently.
 
 Problem Statement
 Street food vendors in India struggle with finding reliable and affordable suppliers for raw materials. The current market is disorganized, and vendors often have to rely on word-of-mouth and unverified sources, leading to higher costs and quality inconsistencies. This app addresses this problem by providing a digital platform that connects vendors with verified suppliers, ensuring better quality and lower costs.
