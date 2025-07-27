@@ -27,7 +27,7 @@ Authentication: Firebase Authentication
 
 Styling: TailwindCSS
 
-Hosting: https://food-supply-connect-3t9y1ymms-suchitras-projects-874b7804.vercel.app
+Hosting: vercel
 
 Installation & Setup
 Follow these steps to get the project up and running locally:
